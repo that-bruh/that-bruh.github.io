@@ -1,7 +1,169 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <title>that-bruh</title>
-  </head>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Blog</title>
+        <style>
+            body {
+                background-color: rgb(252, 199, 133);
+            }
+            .h10 {
+                background-color: rgb(255, 255, 255);
+                color: rgb(82, 82, 82);
+                height: 25px;
+                text-align: center;
+                font-family: lucida bright;
+            }
+            #platinum-one {
+                background-color: rgb(255, 255, 255);
+                color: rgb(82, 82, 82);
+                font-size: 30px;
+                text-align: center;
+            }
+            .part-one {
+               text-align: center;
+               color: rgb(82, 82, 82);
+               font-family: lucida bright;
+               
+            }
+            .platinum-part-one {
+                font-family: sans-serif;
+                line-height: 20px;
+                margin-left: 18px;
+                text-indent: 25px;
+                font-weight: bold;
+            }
+            .platinum-two {
+                background-color: rgb(255, 255, 255);
+                color: rgb(82, 82, 82);
+                font-size: 30px;
+                text-align: center;
+            }
+            .part-two {
+                text-align: center;
+                color: rgb(82, 82, 82);
+                font-family: lucida bright;
+            }
+            .platinum-part-two {
+                font-family: sans-serif;
+                line-height: 20px;
+                margin-left: 18px;
+                text-indent: 25px;
+                font-weight: bold;
+            }
+        </style>
+    </head>
+    <body>
+        <p>Credits:
+            <ul>
+                <li>Line indent tags: <a href="https://www.computerhope.com/issues/ch001034.htm">Computer Hope</a></li>
+                <li>Font-family tags: <a href="https://www.google.com/search?q=html+font+family+list&rlz=1C1GCEA_enUS853US853&sxsrf=ALeKk005qFOrOtgrmhf6fT6540FRxHUixQ%3A1626277060907&ei=xATvYLLfNqnQ5NoP74GB-AE&oq=html+font+family&gs_lcp=Cgdnd3Mtd2l6EAEYATIHCAAQhwIQFDIHCAAQhwIQFDICCAAyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAOgcIABBHELADOgcIABCwAxBDOgQIIxAnOgQIABBDOgUIABCxAzoICAAQsQMQgwE6CwgAELEDEIMBEJECOgUIABCRAkoECEEYAFDaUFimZGCHd2gBcAJ4AIAB_QSIAbAUkgEJNi4yLjIuNS0ymAEAoAEBqgEHZ3dzLXdpesgBCsABAQ&sclient=gws-wiz">Google Search</a></li>
+            </ul>
+        
+        <h1 class="h10">The Story Bin</h1>
+
+        <h3>Contents</h3>
+        <ul>
+            <li><a href="#platinum-one">Platinum, Pt 1</a></li>
+            <li><a href="#platinum-two">Platinum, Pt 2</a></li>
+        </ul>
+        
+        <h2 id="platinum-one">Platinum</h2>
+        <h3 class="part-one">Part 1</h3>
+        <h6> Posted: 9:27 7/9/2021</h6>
+        
+            <p class="platinum-part-one">
+                Again, and again, he swung the pick. The dirt flew, and in its absence, there was revealed silvery-grey metal. With a leap of joy, he quickly snatched up his shovel and scooping under, he picked up the lump and placed it in one of his buckets.<br>
+
+<br>"Another one thousand dollars toward that house on the hill!" he cried ecstatically, "We are gonna be rich."<br>
+
+<br>"Don't you let it go to your head though James," said a young woman sitting on the hill above the little stream in which James was working, "You must remember to keep this one a secret. If this were to get out, we would be dead and forgotten before you could blink an eye!"<br>
+
+<br>"Oh, you are just too suspicious Annabelle. We'll be alright."<br>
+
+<br>"You never know James, you never know."<br>
+
+<br>Chuckling, James went back to work, Annabelle could be so skittish.<br>
+
+ <br>Dark clouds slowly drifted over the landscape darkening the hollows and chilling the air. Still James worked on, determined to get as much money in one day as possible. Slowly the sun sank below the horizon, and the night creatures began to sing their songs.<br>
+
+<br>"We should be going home soon James," Annabelle called, "You know that this is the Chaplains 'turf', and they'll be out and patrolling before long."<br>
+
+<br>"Anni, we'll be fine. You’re just too cautious. They'll never find us here. Why the government doesn't even know this place exists."<br>
+
+<br>"Well, maybe you’re right. But I just don't like being out here when it gets toward night, it's so spooky with the walls all covered in moss, not a sound ever heard."<br>
+
+<br>"Not a sound? You can hear my pickaxe."<br>
+
+<br>"Yes, but that just makes me even more nervous."<br>
+
+<br>Now the feeling of something creeping up behind him came upon James. Annoyed that he was feeling nervous also, he kept on digging.<br>
+
+<br>"I am going to keep digging until it gets full dark," said James doggedly, "There's nothing to be worried about!"<br>
+
+<br>A stick cracked upstream, sending echoes down the narrow, walled-in stream. Looking up Annabelle saw nothing. The trees on the outside of the wall swayed and groaned. Night sounds began to swell, almost drowning out all other sounds. Then there, was that tree shadows, or something else.<br>
+
+<br>"James look! Can you see something up at the culvert?" Not looking up, James snapped, "No don't be silly."<br>
+
+<br>"James!" Annabelle screamed, "It is coming, they're coming!"<br>
+
+<br>With a little scream she ran toward the door, hidden in the wall behind a curtain of ivy. But before she reached it there was a soft whiz and she fell backward, tumbling into the stream, and coming to rest, face down in the water.<br>
+
+<br>The water rippled out from her head. Her hair waved slowly in the water. With a splash, the pick fell from James' hands.<br>
+
+<br>“Anni, are you OK! Anni!”<br>
+
+
+            </p>
+        <h2  id="platinum-two"class="platinum-two">Platinum</h2>
+        <h3 class="part-two">Part 2</h3>
+        <h6>Posted: 12:05 7/14/2021</h6>
+            <p class="platinum-part-two">"Anni, are you OK? Anni!" Leaping across the stream he lifted her out of the water and onto the bank. Placing his first and second finger on her wrist he tried to detect a pulse. There was nothing. Her hand was already chilled as if she had died long ago, for, she was dead. Letting the hand fall he looked up. Through the gathering darkness, he could faintly see the figure of a man dressed in black, slowly advancing toward him.<br>
+
+<br>"Who are you? Show yourself!" he yelled.<br>
+
+ <br>"I am you, James, I am you."<br>
+
+<br>"Impossible!" cried James, "Look at you, you're, you're a demon, you can't be me!”<br>
+
+<br>"Careful! I am you. You are me.”<br>
+
+ 
+
+<br>Slowly he opened his eyes. Clouds sailed through the sky, driven by a brisk chilly breeze. The trees above him tossed their branches about, letting go of their leaves and showering the forest floor. He could hear the sound of water, and a mist hung in the air. Birds sang above him, filling the atmosphere with pure rapture.<br>
+
+
+<br>Carefully he sat up and looked around. Directly in front of him fell a tall blue waterfall, into a pool of about fifteen feet around, which than ran into a small stream that flowed past him on the right and down a hill.<br>
+
+<br>Turning around, he followed it till it flowed into a river which ran through a narrow valley and out into a wide plane beyond.<br>
+
+ <br>"Where am I," he muttered out-loud.<br>
+
+ <br>"Me"<br>
+
+<br>Turning around again, he saw a man in a white robe, facing the falls.<br>
+
+<br>"What do you mean 'Me'.”<br>
+
+<br>“You are inside of me," turning around and facing James, the man continued, "I am you."  Gesturing toward the beautiful landscape, he said, "This is me."<br>
+
+<br>Looking around, James exclaimed, “This is fantastic! This is you? And you are me so, this is me?”<br>
+
+<br>The man did not answer for a while, and as James was waiting for him to speak, he continued to look around and take in his surroundings. He saw incredible beauty all around, but mixed with all the gorgeous trees and plants, were dead things also.<br>
+
+<br>At first, he thought only of how those black spots of death ruined the view. But then he saw the mother owl peeking out of a hollow tree, and a bear ripping up a fallen log, looking for grubs to feed her cubs. It was then that he saw death not as a blight, but as something to add depth to the picture.<br>    
+
+<br>The man finally spoke, “Correct. James you have beauty in you, and pain. Don’t hide it.”<br>
+
+<br>Then James remembered the dark alley, Anni and the man in black.<br>
+
+<br>Turning to the white-robed man he asked, “Sir, was that real, the man and the girl, the stream?”<br>
+
+<br>After a moment of silence, the man said, “Is this real? Yes and no. What you see right now has the potential to be real, as does the Alley.”<br>
+
+<br>“How does that happen, the Alley?”<br>
+
+<br>Turning and facing the valley the man said, “Hide the pain James. Hide the pain, and the pain will take you, and twist you into something, something I cannot show you. That is for someone else.”<br> 
+            </p>
+    </body>
 </html>
